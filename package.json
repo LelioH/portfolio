@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LelioH/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LelioH/portfolio/issues"
+  },
+  "homepage": "https://github.com/LelioH/portfolio#readme",
+  "dependencies": {
+    "next": "^10.0.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
