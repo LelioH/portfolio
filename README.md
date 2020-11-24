@@ -1,9 +1,7 @@
 <h1 align="center">(WIP) Portfolio</h1>
 <p align="center">Criado para informações</p>
 <p align="center">
-  <a href="#-sobre">Sobre o Projeto</a><!--&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-informacoes-adicionais">Informações Adicionais</a>
-</p>
+  <a href="#-sobre">Sobre o Projeto</a>
 
 ## :mag: Sobre o Projeto
 
